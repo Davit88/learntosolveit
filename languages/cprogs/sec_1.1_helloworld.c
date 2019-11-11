@@ -1,8 +1,12 @@
-/* First Program in KandR, the hello,world */
-
-#include<stdio.h>
-void main()
+/***************************
+Davit Hakobyan
+//Hello world
+11/11/19
+***************************/
+#include <stdio.h>
+//Begin main
+int main()
 {
-	printf("hello,world\n");
+	printf("Hello \n\tworld\n\t\tDavit\n\t\t\tHakobyan");
 }
 
